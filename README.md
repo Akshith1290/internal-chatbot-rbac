@@ -1,5 +1,5 @@
-# Sentinel AI - Company Internal RAG Chatbot with RBAC
 
+# Sentinel AI – Enterprise Knowledge Assistant
 A secure, production-ready Retrieval-Augmented Generation (RAG) chatbot system with comprehensive role-based access control, JWT authentication, and complete audit logging.
 
 ## 🚀 Features
