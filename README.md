@@ -360,7 +360,7 @@ MAX_CONTEXT_LENGTH = 2000        # Max tokens for context
 
 ## 🤝 Contributing
 
-This is an internal company project. For questions or issues, contact at `patilbhuvan27@gmail.com`.
+This is an internal company project. For questions or issues, contact at `akshithnalimela@gmail.com`.
 
 ## 📄 License
 
@@ -368,4 +368,4 @@ Internal use only. All rights reserved.
 
 ---
 
-**Built by**: `BHUVAN PATIL`
+**Built by**: `Akshith Nalimela`
