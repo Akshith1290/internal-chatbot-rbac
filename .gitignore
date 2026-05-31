@@ -1,0 +1,24 @@
+Fintech-data/
+Fintech-data-normalized/
+venv/
+tests/
+logs/
+*.db
+.env
+*.bin
+*.sqlite3
+__pycache__/
+*.pyc
+test.py
+users.txt
+data/documents/
+# Confidential data
+Fintech-data-main/
+
+# Generated RAG data
+Chunking/*.json
+Embeddings/*.npy
+
+data/all_chunks.json
+data/all_metadata.json
+data/chunk_embeddings.npy
